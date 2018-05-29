@@ -1,0 +1,11 @@
+{
+  "name": "webpack-bug-reproduction",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^4.10.0",
+    "webpack-cli": "^2.1.4"
+  }
+}
